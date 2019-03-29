@@ -1,0 +1,7 @@
+C:\Users\prisc\source\repos\ContadorBilletes\ContadorBilletes\bin\Debug\ContadorBilletes.exe.config
+C:\Users\prisc\source\repos\ContadorBilletes\ContadorBilletes\bin\Debug\ContadorBilletes.exe
+C:\Users\prisc\source\repos\ContadorBilletes\ContadorBilletes\bin\Debug\ContadorBilletes.pdb
+C:\Users\prisc\source\repos\ContadorBilletes\ContadorBilletes\obj\Debug\ContadorBilletes.csprojAssemblyReference.cache
+C:\Users\prisc\source\repos\ContadorBilletes\ContadorBilletes\obj\Debug\ContadorBilletes.csproj.CoreCompileInputs.cache
+C:\Users\prisc\source\repos\ContadorBilletes\ContadorBilletes\obj\Debug\ContadorBilletes.exe
+C:\Users\prisc\source\repos\ContadorBilletes\ContadorBilletes\obj\Debug\ContadorBilletes.pdb
